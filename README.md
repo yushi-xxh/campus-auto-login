@@ -418,5 +418,7 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 **作者**: yushi-xxh
 
+**支持学校**:南宁职业技术大学
+
 *最后更新：2025-11-07*
 # campus-auto-login
